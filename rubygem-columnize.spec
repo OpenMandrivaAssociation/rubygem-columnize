@@ -62,3 +62,10 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/VERSION
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Mon Dec 20 2010 Rémy Clouard <shikamaru@mandriva.org> 0.3.1-1mdv2011.0
++ Revision: 623460
+- import rubygem-columnize
+
