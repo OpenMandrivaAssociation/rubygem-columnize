@@ -6,7 +6,7 @@ Release:    2
 Summary:    Read file with caching
 Group:      Development/Ruby
 License:    GPLv2+
-URL:        http://rubyforge.org/projects/rocky-hacks/columnize
+URL:        https://rubyforge.org/projects/rocky-hacks/columnize
 Source0:    http://rubygems.org/downloads/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
